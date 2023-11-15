@@ -1,4 +1,4 @@
-# DevNetNorwayCommunity
+# DevNet Norway Community
 DevNet Norway Community
 
 This is the new landing site for the DevNet Norway Community.
