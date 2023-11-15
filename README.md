@@ -1,0 +1,2 @@
+# DevNetNorwayCommunity
+DevNet Norway Community
